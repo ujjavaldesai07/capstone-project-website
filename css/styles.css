@@ -1,0 +1,101 @@
+html, body {
+    height: 100% !important;
+    font-family: 'Roboto', sans-serif!important;
+    font-size: 1.2rem!important;
+    margin: 0;
+    padding: 0;
+    background: url("../images/bg.png") repeat;
+}
+
+li .active {
+    font-weight: 900;
+    color: dodgerblue;
+}
+
+#nav-mobile {
+    padding-left: 20px;
+    font-weight: 100;
+}
+
+.navbar-fixed .brand-logo {
+    padding-right: 40px!important;
+}
+
+.brand-logo, .brand-logo div {
+    height: 100% !important;
+}
+
+.brand-logo img {
+    padding-top: 5px;
+}
+
+.team-member-name {
+    font-weight: 600;
+}
+
+.team-member-title {
+    font-weight: 400;
+    font-size: 1rem!important;
+}
+
+.team-member-email {
+    font-weight: 500;
+    font-size: 1rem!important;
+}
+
+.divider {
+    height: 3px!important;
+    margin: 10px;
+}
+
+.banner {
+    background-color: teal;
+    color: white;
+    height: fit-content;
+    font-size: 2rem!important;
+    margin-bottom: 40px;
+}
+
+.section {
+    padding-top: 0!important;
+    padding-bottom: 0!important;
+}
+
+#content-section .scrollspy {
+    min-height: 720px!important;
+}
+
+#content-section #home {
+    padding-top: 200px;
+}
+
+.valign-wrapper {
+    margin: 0!important;
+}
+
+#content-section #team {
+    padding-top: 50px;
+}
+
+.mentor-title {
+    font-size: 1.3rem!important;
+    font-weight: 600!important;
+    padding-bottom: 10px;
+}
+
+#mentors .flow-text {
+    text-align: justify;
+    font-size: 1rem!important;
+}
+
+@media only screen and (max-width: 768px) {
+    #mentors {
+        height: 800px!important;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    #mentors {
+        height: 1600px!important;
+    }
+}
