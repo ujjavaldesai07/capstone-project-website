@@ -85,7 +85,7 @@ li .active, .sidenav li .active {
 }
 
 #content-section .scrollspy {
-    min-height: 720px!important;
+    min-height: 670px!important;
 }
 
 #content-section #home {
