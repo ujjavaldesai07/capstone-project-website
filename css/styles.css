@@ -66,6 +66,10 @@ li .active, .sidenav li .active {
     font-size: 1rem!important;
 }
 
+.team-member-email span {
+    color: black!important;
+}
+
 .divider {
     height: 3px!important;
     margin: 10px;

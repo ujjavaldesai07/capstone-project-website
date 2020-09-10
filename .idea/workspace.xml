@@ -39,17 +39,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/meetings/team" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/fontawesome" />
       <recent name="$PROJECT_DIR$/fontawesome/css" />
       <recent name="$PROJECT_DIR$/materialize/css" />
       <recent name="$PROJECT_DIR$/materialize/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/meetings/team" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,7 +61,9 @@
       <option name="presentableId" value="Default" />
       <updated>1599670439922</updated>
       <workItem from="1599670441250" duration="18486000" />
-      <workItem from="1599697737389" duration="7550000" />
+      <workItem from="1599697737389" duration="7641000" />
+      <workItem from="1599714222355" duration="223000" />
+      <workItem from="1599757108575" duration="1813000" />
     </task>
     <servers />
   </component>
