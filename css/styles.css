@@ -7,9 +7,32 @@ html, body {
     background: url("../images/bg.png") repeat;
 }
 
-li .active {
+#home .project-title {
+    font-size: 2rem!important;
+    padding-bottom: 50px!important;
+    font-weight: 700!important;
+}
+
+#home .project-desc-title {
+    font-size: 1.5rem!important;
+    font-weight: 600!important;
+}
+
+#home .project-desc {
+    font-size: 1.3rem!important;
+    font-weight: 500!important;
+    text-align: justify!important;
+}
+
+.sidenav li a {
+    color: white!important;
+    font-size: 1.1rem!important;
+    font-weight: 400!important;
+}
+
+li .active, .sidenav li .active {
     font-weight: 900;
-    color: dodgerblue;
+    color: dodgerblue!important;
 }
 
 #nav-mobile {
@@ -17,7 +40,7 @@ li .active {
     font-weight: 100;
 }
 
-.navbar-fixed .brand-logo {
+.hide-on-med-and-down .navbar-fixed .brand-logo {
     padding-right: 40px!important;
 }
 
@@ -69,10 +92,6 @@ li .active {
     padding-top: 200px;
 }
 
-.valign-wrapper {
-    margin: 0!important;
-}
-
 #content-section #team {
     padding-top: 50px;
 }
@@ -83,9 +102,37 @@ li .active {
     padding-bottom: 10px;
 }
 
+.mentor-card {
+    margin: 0!important;
+}
+
 #mentors .flow-text {
     text-align: justify;
     font-size: 1rem!important;
+}
+
+.team-member-title {
+    padding-bottom: 10px;
+}
+
+.fa-envelope {
+    padding-right: 3px!important;
+}
+
+table td {
+    font-size: 1rem!important;
+}
+
+.completed {
+    color: green;
+}
+
+.inprogress {
+    color: blue;
+}
+
+.pending {
+    color: red;
 }
 
 @media only screen and (max-width: 768px) {
