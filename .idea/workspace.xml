@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e686042-f2f3-4776-9547-b7b645c25684" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/meetings/team/SoftwareChasers_TeamMeeting_Sep_15.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/systemArchitecture/AdminPageModule.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/systemArchitecture/LoginModuleArchitecture.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/systemArchitecture/SystemArchitecture.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/systemDesign/BackendSystemDesign.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/systemDesign/DatabaseERDDiagram.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/systemDesign/DatabaseUMLDiagram.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/systemDesign/UsecaseDiagram.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/team/SoftwareChasers_TeamMeeting_Sep_11.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/team/SoftwareChasers_TeamMeeting_Sep_11.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +36,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/documentation/systemArchitecture" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/meetings/team" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meetings/team" />
       <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
       <recent name="$PROJECT_DIR$/meetings/mentor" />
-      <recent name="$PROJECT_DIR$/meetings/team" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -80,7 +75,7 @@
       <workItem from="1600149521860" duration="2100000" />
       <workItem from="1600191430277" duration="80000" />
       <workItem from="1600199151723" duration="232000" />
-      <workItem from="1600203666674" duration="601000" />
+      <workItem from="1600203666674" duration="1150000" />
     </task>
     <servers />
   </component>
@@ -88,10 +83,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599677550082">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600212727183">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1599677550082" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600212727183" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599879769437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
