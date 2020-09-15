@@ -129,15 +129,6 @@ li .active, .sidenav li .active {
     padding-top: 10px;
 }
 
-.doc-title {
-    font-weight: 700;
-}
-
-#documentation .collection {
-    font-size: 1rem!important;
-    font-weight: 500;
-}
-
 .section {
     padding-top: 0!important;
     padding-bottom: 0!important;

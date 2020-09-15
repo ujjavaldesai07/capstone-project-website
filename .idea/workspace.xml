@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e686042-f2f3-4776-9547-b7b645c25684" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/systemArchitecture/AdminPageModule.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/systemArchitecture/LoginModuleArchitecture.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/systemArchitecture/SystemArchitecture.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/systemDesign/BackendSystemDesign.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/systemDesign/DatabaseERDDiagram.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/systemDesign/DatabaseUMLDiagram.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/systemDesign/UsecaseDiagram.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,19 +46,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
-      <recent name="$PROJECT_DIR$/documentation/systemDesign" />
-      <recent name="$PROJECT_DIR$/documentation" />
-      <recent name="$PROJECT_DIR$/fontawesome" />
-      <recent name="$PROJECT_DIR$/fontawesome/css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
       <recent name="$PROJECT_DIR$/meetings/mentor" />
       <recent name="$PROJECT_DIR$/meetings/team" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/documentation/systemDesign" />
+      <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
+      <recent name="$PROJECT_DIR$/documentation" />
+      <recent name="$PROJECT_DIR$/fontawesome" />
+      <recent name="$PROJECT_DIR$/fontawesome/css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,7 +79,8 @@
       <workItem from="1599890603192" duration="146000" />
       <workItem from="1600149521860" duration="2100000" />
       <workItem from="1600191430277" duration="80000" />
-      <workItem from="1600199151723" duration="23000" />
+      <workItem from="1600199151723" duration="232000" />
+      <workItem from="1600203666674" duration="601000" />
     </task>
     <servers />
   </component>
