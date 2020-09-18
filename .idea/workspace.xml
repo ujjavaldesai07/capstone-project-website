@@ -5,6 +5,14 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/mentor/SoftwareChasers_MentorMeeting_Sep_10.docx" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/mentor/Pixels_MentorMeeting_Sep_10.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/mentor/SoftwareChasers_MentorMeeting_Sep_10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/mentor/SoftwareChasers_MentorMeeting_Sep_16.docx" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/mentor/Pixels_MentorMeeting_Sep_16.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/mentor/SoftwareChasers_MentorMeeting_Sep_16.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/team/SoftwareChasers_TeamMeeting_Sep_15.docx" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/team/Pixels_TeamMeeting_Sep_15.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/team/SoftwareChasers_TeamMeeting_Sep_15.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/team/SoftwareChasers_TeamMeeting_Sep_8.docx" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/team/Pixels_TeamMeeting_Sep_8.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/team/SoftwareChasers_TeamMeeting_Sep_8.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,24 +42,24 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/meetings/mentor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/meetings/mentor" />
+      <recent name="$PROJECT_DIR$/meetings/team" />
+      <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/documentation/systemDesign" />
       <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
       <recent name="$PROJECT_DIR$/documentation" />
       <recent name="$PROJECT_DIR$/fontawesome" />
       <recent name="$PROJECT_DIR$/fontawesome/css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/meetings/mentor" />
-      <recent name="$PROJECT_DIR$/meetings/team" />
-      <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,7 +82,9 @@
       <workItem from="1600191430277" duration="80000" />
       <workItem from="1600199151723" duration="232000" />
       <workItem from="1600203666674" duration="1246000" />
-      <workItem from="1600389436412" duration="714000" />
+      <workItem from="1600389436412" duration="978000" />
+      <workItem from="1600390860686" duration="5000" />
+      <workItem from="1600443428789" duration="4658000" />
     </task>
     <servers />
   </component>
@@ -82,10 +92,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600212727183">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600449449664">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600212727183" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600449449664" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599879769437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
