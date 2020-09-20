@@ -8,8 +8,8 @@ html, body {
 }
 
 nav {
-    height: 80px!important;
-    line-height: 40px!important;
+    height: 70px!important;
+    line-height: 70px!important;
 }
 
 .sidenav-trigger {
@@ -22,7 +22,7 @@ nav {
 
 .hide-on-med-and-down .brand-logo, .brand-logo div {
     height: 100% !important;
-    top: 30px!important;
+    top: 12px!important;
 }
 
 .hide-on-large-only .brand-logo {

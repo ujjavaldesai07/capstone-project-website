@@ -5,14 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/mentor/SoftwareChasers_MentorMeeting_Sep_10.docx" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/mentor/Pixels_MentorMeeting_Sep_10.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/mentor/SoftwareChasers_MentorMeeting_Sep_10.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/mentor/SoftwareChasers_MentorMeeting_Sep_16.docx" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/mentor/Pixels_MentorMeeting_Sep_16.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/mentor/SoftwareChasers_MentorMeeting_Sep_16.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/team/SoftwareChasers_TeamMeeting_Sep_15.docx" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/team/Pixels_TeamMeeting_Sep_15.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/team/SoftwareChasers_TeamMeeting_Sep_15.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/team/SoftwareChasers_TeamMeeting_Sep_8.docx" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/team/Pixels_TeamMeeting_Sep_8.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/team/SoftwareChasers_TeamMeeting_Sep_8.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +76,8 @@
       <workItem from="1600203666674" duration="1246000" />
       <workItem from="1600389436412" duration="978000" />
       <workItem from="1600390860686" duration="5000" />
-      <workItem from="1600443428789" duration="4658000" />
+      <workItem from="1600443428789" duration="5171000" />
+      <workItem from="1600574296652" duration="1565000" />
     </task>
     <servers />
   </component>
