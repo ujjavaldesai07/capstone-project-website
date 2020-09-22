@@ -49,7 +49,7 @@ nav {
 }
 
 .home-background {
-    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/leads.png") center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/assessment-3.jpg") center;
     background-size: cover;
     background-position-y: 40%;
 }
