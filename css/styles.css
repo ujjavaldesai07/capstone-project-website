@@ -40,7 +40,11 @@ nav {
 
 .hide-on-large-only .team-name {
     height: 20px!important;
-    font-size: 0.9rem;
+    font-size: 1rem;
+    display: block;
+    position: absolute;
+    left: 36%;
+    top: 58%;
 }
 
 #content-section {
@@ -92,6 +96,21 @@ li .active, .sidenav li .active {
     color: dodgerblue!important;
 }
 
+.hide-on-med-and-down .team-name {
+    position: absolute;
+    left: 44.5%;
+}
+
+.team-name a:hover {
+    background-color: transparent!important;
+    text-decoration: none!important;
+}
+
+.hide-on-med-and-down .team-name a {
+    font-weight: 500;
+    font-size: 1.2rem!important;
+}
+
 #nav-mobile {
     padding-left: 20px;
     font-weight: 100;
@@ -126,7 +145,6 @@ li .active, .sidenav li .active {
     height: fit-content;
     font-size: 2rem!important;
     margin-bottom: 40px;
-    padding-top: 10px;
 }
 
 .section {
@@ -218,5 +236,11 @@ table td {
 
     #home .project-desc {
         font-size: 1rem!important;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    #content-section #home {
+        min-height: 160vh!important;
     }
 }

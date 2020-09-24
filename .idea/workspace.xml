@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e686042-f2f3-4776-9547-b7b645c25684" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,24 +32,24 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/meetings/team" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/meetings/mentor" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/meetings/team" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/meetings/mentor" />
-      <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/documentation/systemDesign" />
       <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
       <recent name="$PROJECT_DIR$/documentation" />
       <recent name="$PROJECT_DIR$/fontawesome" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meetings/mentor" />
+      <recent name="$PROJECT_DIR$/meetings/team" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -79,7 +78,12 @@
       <workItem from="1600574296652" duration="1965000" />
       <workItem from="1600734261370" duration="948000" />
       <workItem from="1600735974927" duration="165000" />
-      <workItem from="1600881769570" duration="722000" />
+      <workItem from="1600881769570" duration="895000" />
+      <workItem from="1600893517199" duration="6000" />
+      <workItem from="1600956206784" duration="3004000" />
+      <workItem from="1600960342623" duration="214000" />
+      <workItem from="1600960662115" duration="163000" />
+      <workItem from="1600960988990" duration="16000" />
     </task>
     <servers />
   </component>
