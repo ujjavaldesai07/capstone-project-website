@@ -53,13 +53,13 @@ nav {
 }
 
 .home-background {
-    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/assessment-4.png") center;
+    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("../images/home-small-dark.png") center;
     background-size: cover;
     background-position-y: 40%;
 }
 
 #home .center-align {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.3);
     transform: translateY(20%);
     padding: 20px;
     border-radius: 50px;
@@ -68,19 +68,19 @@ nav {
 #home .project-title {
     font-size: 1.5rem!important;
     padding-bottom: 20px!important;
-    font-weight: 700!important;
+    font-weight: 100!important;
     color: white;
 }
 
 #home .project-desc-title {
     font-size: 1.3rem!important;
-    font-weight: 500!important;
+    font-weight: 100!important;
     color: white;
 }
 
 #home .project-desc {
     font-size: 1.1rem!important;
-    font-weight: 500!important;
+    font-weight: 400!important;
     text-align: justify!important;
     color: white;
 }
@@ -135,7 +135,7 @@ li .active, .sidenav li .active {
 }
 
 .divider {
-    height: 3px!important;
+    height: 1px!important;
     margin: 10px;
 }
 
