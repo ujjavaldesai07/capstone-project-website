@@ -33,24 +33,24 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/meetings/mentor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/meetings/team" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/meetings/mentor" />
       <recent name="$PROJECT_DIR$/meetings/team" />
       <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/documentation/systemDesign" />
       <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
-      <recent name="$PROJECT_DIR$/documentation" />
-      <recent name="$PROJECT_DIR$/fontawesome" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meetings/team" />
+      <recent name="$PROJECT_DIR$/meetings/mentor" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
