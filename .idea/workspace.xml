@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9e686042-f2f3-4776-9547-b7b645c25684" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/meetings/team" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/meetings/mentor" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -46,8 +47,8 @@
       <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/meetings/team" />
       <recent name="$PROJECT_DIR$/meetings/mentor" />
+      <recent name="$PROJECT_DIR$/meetings/team" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
       <recent name="$PROJECT_DIR$" />
@@ -94,6 +95,16 @@
       <workItem from="1601592882872" duration="36000" />
       <workItem from="1601700061721" duration="262000" />
       <workItem from="1601700468541" duration="77000" />
+      <workItem from="1602816938942" duration="19000" />
+      <workItem from="1603207141300" duration="1166000" />
+      <workItem from="1603230895933" duration="302000" />
+      <workItem from="1603237726956" duration="602000" />
+      <workItem from="1603248068807" duration="4000" />
+      <workItem from="1603302262250" duration="6000" />
+      <workItem from="1603999172965" duration="1916000" />
+      <workItem from="1604043240834" duration="374000" />
+      <workItem from="1604518685374" duration="22000" />
+      <workItem from="1604537877974" duration="307000" />
     </task>
     <servers />
   </component>

@@ -199,6 +199,10 @@ table td {
     color: blue;
 }
 
+.notStarted {
+    color: orange;
+}
+
 .pending {
     color: red;
 }
