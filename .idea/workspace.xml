@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9e686042-f2f3-4776-9547-b7b645c25684" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,19 +38,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/meetings/mentor" />
-      <recent name="$PROJECT_DIR$/meetings/team" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/documentation/systemDesign" />
-      <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/meetings/mentor" />
       <recent name="$PROJECT_DIR$/meetings/team" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meetings/mentor" />
+      <recent name="$PROJECT_DIR$/meetings/team" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/documentation/systemDesign" />
+      <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -104,7 +103,11 @@
       <workItem from="1603999172965" duration="1916000" />
       <workItem from="1604043240834" duration="374000" />
       <workItem from="1604518685374" duration="22000" />
-      <workItem from="1604537877974" duration="307000" />
+      <workItem from="1604537877974" duration="432000" />
+      <workItem from="1604549558964" duration="34000" />
+      <workItem from="1605201087437" duration="1063000" />
+      <workItem from="1605205782847" duration="91000" />
+      <workItem from="1605481043383" duration="462000" />
     </task>
     <servers />
   </component>
