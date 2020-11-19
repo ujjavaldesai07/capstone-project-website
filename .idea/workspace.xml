@@ -38,19 +38,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/meetings/mentor" />
-      <recent name="$PROJECT_DIR$/meetings/team" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/meetings/mentor" />
       <recent name="$PROJECT_DIR$/meetings/team" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/documentation/systemDesign" />
       <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meetings/mentor" />
+      <recent name="$PROJECT_DIR$/meetings/team" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/documentation/systemArchitecture" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -108,6 +108,9 @@
       <workItem from="1605201087437" duration="1063000" />
       <workItem from="1605205782847" duration="91000" />
       <workItem from="1605481043383" duration="462000" />
+      <workItem from="1605773641518" duration="314000" />
+      <workItem from="1605807349880" duration="26000" />
+      <workItem from="1605815859540" duration="308000" />
     </task>
     <servers />
   </component>
